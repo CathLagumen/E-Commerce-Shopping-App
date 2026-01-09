@@ -333,7 +333,7 @@ flutter run
 
 **Dark Mode**
 
-<img src="assets/screenshots/SettingsScreenDarkMode.png" width="300" alt="Settings Dark"/>
+<img src="assets/screenshots/SettingScreenDarkMode.png" width="300" alt="Settings Dark"/>
 
 *Settings screen in dark theme showing theme toggle*
 
